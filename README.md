@@ -68,5 +68,7 @@
   
   <hr>
   
-  <h2 align="center" style="margin-bottom: 16px">👨‍💻 Happy Coding! 👨‍💻</h2>
+  <h2 align="center">👨‍💻 Happy Coding! 👨‍💻</h2>
+
+  <hr>
   
