@@ -5,16 +5,6 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Software%20Engineer-Backend%20Specialist-blue?style=for-the-badge&color=0366d6" alt="Fullstack Developer">
   </p>
-  
-<p align="center">
-    <a href="https://profile-counter.glitch.me/amirsohail66" target="_blank" style="text-decoration: none;">
-        <img src="https://profile-counter.glitch.me/amirsohail66/count.svg" alt="Profile views" 
-        style="border: 2px solid #0077B5; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s;">
-    </a>
-</p>
-<p align="center" style="font-size: 16px; color: #0077B5; font-weight: bold; font-family: 'Arial', sans-serif;">
-    Total Profile Visits
-</p>
 
   
 <div align="center">
